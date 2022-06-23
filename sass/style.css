@@ -1,0 +1,57 @@
+.accountbackground {
+  background-color: #0F74FF;
+  height: 160px;
+}
+
+.accountcolor {
+  padding-top: 100px;
+}
+
+.dashboard {
+  background-color: #0F74FF;
+}
+
+.booking {
+  background-color: #C4D3E9;
+}
+
+.car {
+  background-color: #C4D3E9;
+}
+
+.account {
+  background-color: #C4D3E9;
+}
+
+.button {
+  background-color: #0F74FF;
+  border-radius: 19px;
+  border: none;
+}
+
+.spanwords {
+  color: #0F74FF;
+}
+
+.formcolor {
+  background-color: #0F74FF;
+  width: 730px;
+  height: 40px;
+}
+
+.readmore {
+  color: #0F74FF;
+}
+
+.readmoreone {
+  margin-left: 370px;
+}
+
+.readmoretwo {
+  margin-left: 352px;
+}
+
+.readmorethree {
+  margin-left: 345px;
+}
+/*# sourceMappingURL=style.css.map */
